@@ -1,0 +1,5 @@
+1|Pblo|1|1|Cancelado
+2|Pablo|0|2|Entregado
+3|Luis|4|50|Pendiente
+4|Byron |0|50|Pendiente
+5|3|2|50|Pendiente

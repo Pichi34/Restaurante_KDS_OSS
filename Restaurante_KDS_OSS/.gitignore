@@ -1,0 +1,10 @@
+*.exe
+*.o
+*.obj
+*.dll
+*.pdb
+build/
+Debug/
+Release/
+*.tmp
+*.log
